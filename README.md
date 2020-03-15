@@ -1,2 +1,2 @@
 # Opencv4_FaceRecognition
-Knn_Image Detection &amp; Recognition
+KNN & SVM_Image Reg &amp; Recognition
